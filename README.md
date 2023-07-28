@@ -1,5 +1,8 @@
-# Lista de Tarefa
+# React + Vite
 
-Recentemente, senti a necessidade de me organizar melhor e decidi pesquisar sobre como criar uma lista de tarefas utilizando React. Durante minha busca, encontrei um vídeo que ensinava a desenvolver esse projeto utilizando HTML, CSS e JavaScript.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Aprendi muito ao longo desse processo, não apenas sobre React, mas também sobre a importância de se organizar de forma eficiente. Agora, tenho uma ferramenta personalizada que me auxilia no gerenciamento das minhas atividades diárias, contribuindo para uma rotina mais produtiva e organizada.
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
