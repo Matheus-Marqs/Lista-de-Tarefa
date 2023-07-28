@@ -1,4 +1,4 @@
-#Lista de Tarefa
+Lista de Tarefas
 
 Recentemente, senti a necessidade de me organizar melhor e decidi pesquisar sobre como criar uma lista de tarefas utilizando React. Durante minha busca, encontrei um vídeo que ensinava a desenvolver esse projeto utilizando HTML, CSS e JavaScript.
 
